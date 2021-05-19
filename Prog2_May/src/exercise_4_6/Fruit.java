@@ -1,12 +1,12 @@
 package exercise_4_6;
 //Super class of all fruits
-//implement interface-Discount Rate
+//implement interface-Discount Rate and total
 public abstract class Fruit implements DiscountRate,TotalPrice{
 	private String name;
 	private String taste;
 	
 	public Fruit(String name,String taste) {
-		System.out.println("——————————————————————————————————————————————"
+		System.out.println("â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”"
 						   +"\nFruit constructor is invoked");
 		this.name =name;
 		this.taste=taste;
