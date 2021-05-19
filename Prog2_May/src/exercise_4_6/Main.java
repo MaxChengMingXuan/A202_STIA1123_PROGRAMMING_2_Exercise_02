@@ -1,9 +1,3 @@
-//****************************************************************************//
-//Updated Contents:
-//1. Abstraction in Fruit class, line 29.
-//2. Interface  class, Discount rate added 
-//	 and implementation in Fruit class, line 16.
-//****************************************************************************//
 
 package exercise_4_6;
 
